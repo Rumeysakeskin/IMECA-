@@ -1,4 +1,4 @@
 # IMECA-
 Image Caption Generation Mobile App
 
-![] (images/aa.png)
+❮img src="images/aa.png" ❯
